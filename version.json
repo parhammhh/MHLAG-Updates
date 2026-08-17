@@ -1,6 +1,6 @@
 {
-  "version": "3.0.0",
-  "download_url": "https://github.com/parhammhh/MHLAG-Updates/releases/download/v3.0.0/Mhlag.3.0.0.exe",
-  "sha256": "7bee94712fae3c38603ff50e8c16801bcbdf0ca7885f2a2f8e8b4d4201ccbb2a",
-  "mandatory": "false"
+  "version": "4.0.0",
+  "download_url": "https://github.com/USERNAME/MHLAG-Updates/releases/download/v4.0.0/Mhlag%204.0.0.exe",
+  "sha256": "2c9aa7d1cd6d6054aa245a62ad702247af8f8fac66170304eb4fa7b2424993bb",
+  "mandatory": false
 }
